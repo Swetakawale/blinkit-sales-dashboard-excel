@@ -15,9 +15,7 @@ An interactive Excel dashboard built to analyze Blinkit sales performance across
 ## Tools
 
 **Microsoft Excel | PivotTables | PivotCharts | Data Cleaning | Data Analysis | Dashboarding**
-
-## Dashboard
-
+ 
 ## Outcome
 
 Provides a clear view of sales trends and outlet performance to support data-driven business analysis.
